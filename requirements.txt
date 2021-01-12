@@ -156,7 +156,7 @@ threadpoolctl==2.1.0
 thriftpy==0.3.9
 toml==0.10.1
 tornado==6.1
-traitlets==5.0.5
+
 translationstring==1.4
 tzlocal==2.1
 urllib3==1.23
