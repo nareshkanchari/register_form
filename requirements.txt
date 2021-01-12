@@ -111,7 +111,6 @@ prompt-toolkit==3.0.8
 protobuf==3.13.0
 psycopg2==2.8.5
 py-zipkin==0.10.0
-py2exe==0.10.1.0
 pycodestyle==2.6.0
 pycparser==2.20
 pydantic==1.7.3
